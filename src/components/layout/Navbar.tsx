@@ -16,14 +16,15 @@ const Navbar = () => {
         <div className="hidden md:flex items-center space-x-6">
           <Link to="/" className="text-foreground hover:text-primary transition-colors">
             Главная
+          <Link to="/" className="text-foreground hover:text-primary transition-colors">
+            Главная
           </Link>
-          <Link to="/battles" className="text-foreground hover:text-primary transition-colors">
-            Баттлы
+          <Link to="/upgrades" className="text-foreground hover:text-primary transition-colors">
+            Апгрейды
           </Link>
           <Link to="/cases" className="text-foreground hover:text-primary transition-colors">
             Кейсы
           </Link>
-          <Link to="/inventory" className="text-foreground hover:text-primary transition-colors">
             Инвентарь
           </Link>
         </div>
