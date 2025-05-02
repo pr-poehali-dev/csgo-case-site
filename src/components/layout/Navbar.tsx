@@ -8,8 +8,8 @@ const Navbar = () => {
       <div className="container flex justify-between items-center py-4">
         <div className="flex items-center space-x-1">
           <Link to="/" className="text-2xl font-bold text-primary flex items-center">
-            <span className="mr-2">CS:GO</span>
-            <span className="text-accent">CASE</span>
+            <span className="mr-2">blog</span>
+            <span className="text-accent">battle</span>
           </Link>
         </div>
 

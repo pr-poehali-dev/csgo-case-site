@@ -136,4 +136,8 @@ const Upgrades = () => {
   );
 };
 
-export default Upgrades;
+export default Upgrades;              <p className="text-sm text-muted-foreground">
+                © 2025 blogbattle | Все права защищены
+              </p>
+              <p className="text-xs text-muted-foreground mt-1">
+                Этот сайт не связан с Valve Corporation

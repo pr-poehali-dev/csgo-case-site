@@ -39,7 +39,7 @@ const Index = () => {
           <div className="container py-16 relative z-10">
             <div className="max-w-2xl">
               <h1 className="text-4xl md:text-5xl font-bold mb-4">
-                Открывай кейсы <span className="text-primary">CS:GO 2</span><br />
+                Открывай кейсы <span className="text-primary">blogbattle</span><br />
                 и участвуй в баттлах
               </h1>
               <p className="text-xl text-muted-foreground mb-8">
